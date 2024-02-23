@@ -38,7 +38,6 @@ A string is balanced if it consists of exactly two different characters and both
 Examples: 1. Given S = "cabbacc", the function should return ["abba"] because it is the longest balanced substring.
 
 In this question, we are checking whether the input string is balanced or not. 
+
 ![MicrosoftTeams-image (2)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ab764693-2983-42f5-bb64-5a993542f915)
 ![MicrosoftTeams-image (4)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/0d4d06b1-a74a-4453-9fd7-522d85598858)
-
-
