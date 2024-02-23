@@ -1,4 +1,4 @@
-# fibonacci
+# Flutter Assignment
 
 A new Flutter project.
 
