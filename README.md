@@ -1,16 +1,10 @@
 # Flutter Assignment
 
-A new Flutter project.
+About the Flutter Assignemnt Project:
 
-## Getting Started
+This is project repository including code file of all the given three task:
 
-This project is a starting point for a Flutter application.
+This is the home scree of the app
+![MicrosoftTeams-image (18)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/e792d537-cbd1-421c-a348-3659f7a4e9ff)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
