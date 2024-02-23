@@ -1,47 +1,78 @@
 # Flutter Assignment
 
 **About the Flutter Assignemnt Project:**
+This project has been created to write programs that solve various problem statements, allowing individuals to demonstrate their knowledge and skills in the domain. The app includes a separate page for each problem, showcasing the best-known solution.
 
-This is project repository including code files of all the given three tasks:
+**Tool & Technology:**
+1. Flutter SDK
+2. Firebase Storage
+3. GetX for observable architecture
+4. MVC Pattern.
+5. Clean Coading.
+
+**Getting Started**
+Here are some steps that will be useful to begin this project:
+1. download the repositiry from github.
+2. unzip the downloaded repo.
+3. open the project in your fevorite IDE-Android Studio or Visual Studio.
+4. Run the 'pub get' command on the terminal to prepare to run the project.
+5. Run the 'flutter run' command on the terminal to run the code on specific platform you choose. 
 
 **Home Screen:**
 
-This is the home scree of the app, you can click on indiviual buttons to see the task 
+This is the home screen of the app, you can click on individual buttons to see the task
 
-![MicrosoftTeams-image (18) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/527f705e-222e-4407-90c9-cf8c035781b6)
+![11](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/e57cc715-c689-4fd1-a7db-8448622f0a16)
+
 
 
 **Task 1: File Upload to Firebase Storage**
 
-Create a file upload feature in Flutter that accepts image or video files under 10 MB. Implement interactions like upload progress, file upload status, and a preview of the uploaded file. Ensure appropriate validations and error messages are displayed.
-After uploading a video or image, the file can be downloaded from Firebase storage, and videos can be played.
+Problem Statement:
+Create a file upload feature in Flutter that accepts any image or video files, less than 10 MB and upload the file to the firebase storage.
+Add some some interactions or animations like upload progress and file upload status Add a preview of the file that has been uploaded.
+Place appropriate validations and error messages wherever required.
+
+Solution:
+I designed a screen that features a single button for uploading files. When you tap on the button, it will take you to the file selection page. Once you choose a file, it will check its size and upload it to Firebase storage. You will see a loader on the screen while the upload is in progress.
+After a video or image is successfully uploaded, it is downloaded automatically from Firebase storage. Videos can also be played directly. Please note that only image or video files under 10 MB are accepted. Rest assured, validations and error messages will be displayed to guide you through the process.
 
 Screenshots:
 
-![MicrosoftTeams-image (17) (1) (1) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ecaedc41-e72b-40cf-a919-3c385e796ac6)
-![MicrosoftTeams-image (8)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/cab38912-1c52-4672-b21d-3d6f8f493ecc)
+![9](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/4c4f8512-dc95-46d5-ac36-c7d36158f903)
+
 ![MicrosoftTeams-image (7)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/14a22c3c-a481-4ccb-b55a-88c1eae259fc)
 
 
 
 **Task 2: Fibonacci Series Application**
+Problem Statement:
+Write a simple application using a recursive function that accepts a value (integer) and returns the fibonacci value at that position in the series.
+The application should be performant at scale to handle larger numbers without slowing down exponentially.
 
-Write a simple application using a recursive function to find the Fibonacci value at a given position. Ensure the application is performant at scale to handle larger numbers without slowing down exponentially.
-For larger numbers, the factorial value will be too large, so an infinity sign is displayed.
+Solution:
+I designed a screen featuring an input box for integer numbers of varying lengths along with a button to display the outcome. Once pressed, the button triggers a recursive function to determine the Fibonacci value at a specified position. Rest assured, the efficiency of the calculation and operation will not impede user interaction. If the factorial value exceeds a certain limit, an infinity sign will be shown instead.
 
 Screenshots:
 
-![MicrosoftTeams-image (6)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/2780f902-04d5-4e06-bcbf-181b5e711ae8)
-![MicrosoftTeams-image (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/1755e694-92a8-406d-b9b6-3be8f42c8fb0)
-![MicrosoftTeams-image](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/0310d3c4-fa63-46e2-8f23-0c7b2a475ea5)
+![6](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/54e02e6f-5d5f-4495-98ff-823e1228c3e6)
+![2](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/da534bd5-fea7-407a-898f-d331d1834430)
+
 
 
 
 **Task 3: Balanced Substrings**
+Problem Statement:
+A string is balanced if it consists of exactly two different characters and both of those characters appear exactly the same number of times. For example: "aabbab" is balanced (both 'a' and 'b' occur three times) but "aabba" is not balanced ('a' occurs three times, 'b' occurs two times). String "aabbcc" is also not balanced (it contains three different letters). A substring of string S is a string that consists of consecutive letters in S. For example: "ompu" is a substring of "computer" but "cmptr" is not. Write a function solution called getBalancedSubstrings (List<String> S) that, given a string S, returns an
+array of the longest balanced substring of S.Examples: 1. Given S = "cabbacc", the function should return ["abba"] because it is the longest balanced substring.
+2. Given S = "abababa", the function should return ["ababab", "bababa"] which are the longest balanced substrings.
+3. Given S = "aaaaaaa", the function should return [] since S does not contain a balanced substring. Write an efficient algorithm for the following assumptions: - N is an integer within the range [1..100,000]; - string S is made only of lowercase letters (a-z).
 
-Implement a function called getBalancedSubstrings(List<String> S) that returns an array of the longest balanced substrings of the input string S.
+Solution:
+I have designed a screen with an input box that can accept a string of any length. There is also a button that will display the result. When you click the button, it will call the function to determine if the input string is balanced or not. Additionally, it will calculate the number of balanced substrings that can be formed. I have also implemented functional validation to ensure everything works smoothly.
 
 Screenshots:
 
-![MicrosoftTeams-image (2)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ab764693-2983-42f5-bb64-5a993542f915)
-![MicrosoftTeams-image (4)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/0d4d06b1-a74a-4453-9fd7-522d85598858)
+![3](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/8684b621-70cb-4aa3-93a8-11dc2501d5ba)
+![5](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/2b3bda0a-9a68-402b-86c1-b875cffacfa3)
+
