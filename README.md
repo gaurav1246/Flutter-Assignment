@@ -1,22 +1,19 @@
 # Flutter Assignment
 
-About the Flutter Assignemnt Project:
+-About the Flutter Assignemnt Project:
 
 This is project repository including code files of all the given three tasks:
 
+Home Screen:
 This is the home scree of the app, you can click on indiviual buttons to see the task 
 
 ![MicrosoftTeams-image (18) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/527f705e-222e-4407-90c9-cf8c035781b6)
 
 
-Question 1: (compulsory)
-Create a file upload feature in Flutter that accepts any image or video files, less than 10 MB and upload the file to the firebase storage.
-Add some some interactions or animations like upload progress and file upload status Add a preview of the file that has been uploaded.
-Place appropriate validations and error messages wherever required.
-
-In this question, we have to upload a image or a video with a proper validation and UI interface inlcuding alert messages for large file size. After upload a videos/images, it is again downloading from the firebase storage and video can be play. 
-
-Attaching the screenshots
+Task 1: File Upload to Firebase Storage
+Create a file upload feature in Flutter that accepts image or video files under 10 MB. Implement interactions like upload progress, file upload status, and a preview of the uploaded file. Ensure appropriate validations and error messages are displayed.
+After uploading a video or image, the file can be downloaded from Firebase storage, and videos can be played.
+Screenshots:
 
 ![MicrosoftTeams-image (17) (1) (1) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ecaedc41-e72b-40cf-a919-3c385e796ac6)
 ![MicrosoftTeams-image (8)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/cab38912-1c52-4672-b21d-3d6f8f493ecc)
@@ -24,10 +21,10 @@ Attaching the screenshots
 
 
 
-Question 2:
-Write a simple application using a recursive function that accepts a value (integer) and returns the fibonacci value at that position in the series. The application should be performant at scale to handle larger numbers without slowing down exponentially.
-
-In this question, we have used recursive function to find factorial of the number. For larger number, facotrial value will be too large so we are showing infinity sign in that place.
+Task 2: Fibonacci Series Application
+Write a simple application using a recursive function to find the Fibonacci value at a given position. Ensure the application is performant at scale to handle larger numbers without slowing down exponentially.
+For larger numbers, the factorial value will be too large, so an infinity sign is displayed.
+Screenshots:
 
 ![MicrosoftTeams-image (6)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/2780f902-04d5-4e06-bcbf-181b5e711ae8)
 ![MicrosoftTeams-image (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/1755e694-92a8-406d-b9b6-3be8f42c8fb0)
@@ -36,10 +33,8 @@ In this question, we have used recursive function to find factorial of the numbe
 
 
 Question 3:
-A string is balanced if it consists of exactly two different characters and both of those characters appear exactly the same number of times. For example: "aabbab" is balanced (both 'a' and 'b' occur three times) but "aabba" is not balanced ('a' occurs three times, 'b' occurs two times). String "aabbcc" is also not balanced (it contains three different letters). A substring of string S is a string that consists of consecutive letters in S. For example: "ompu" is a substring of "computer" but "cmptr" is not. Write a function solution called getBalancedSubstrings (List<String> S) that, given a string S, returns an array of the longest balanced substring of S.
-Examples: 1. Given S = "cabbacc", the function should return ["abba"] because it is the longest balanced substring.
-
-In this question, we are checking whether the input string is balanced or not. 
+Implement a function called getBalancedSubstrings(List<String> S) that returns an array of the longest balanced substrings of the input string S.
+Screenshots:
 
 ![MicrosoftTeams-image (2)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ab764693-2983-42f5-bb64-5a993542f915)
 ![MicrosoftTeams-image (4)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/0d4d06b1-a74a-4453-9fd7-522d85598858)
