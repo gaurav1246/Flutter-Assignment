@@ -16,11 +16,10 @@ Place appropriate validations and error messages wherever required.
 In this question, we have to upload a image or a video with a proper validation and UI interface inlcuding alert messages for large file size. After upload a videos/images, it is again downloading from the firebase storage and video can be play. 
 
 Attaching the screenshots
-https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/e49756d9-7f57-410f-b6a4-f172ae537062
+![MicrosoftTeams-image (17)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/be49099c-8a2f-4a44-bf44-60c89488173d)
+![MicrosoftTeams-image (12)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/35fd242d-659a-40cb-9f61-4d427d2d537b)
+![MicrosoftTeams-image (16)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/b9dfa440-d9fa-4fc3-8eae-67da17f39820)
 
-
-
-https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/9a39fe88-5f8e-4f54-9969-5ad9b68dbccc
 
 
 
