@@ -39,7 +39,7 @@ After a video or image is successfully uploaded, it is downloaded automatically 
 
 Screenshots:
 
-![9 (2)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/efa0de28-cba8-43e9-8049-c8fdcc6f6c70)
+![MicrosoftTeams-image (21) (2)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/fe83e660-4592-41cb-b5f7-525cc5613608)
 ![MicrosoftTeams-image (20) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/df5e20fd-86b3-4ac0-977c-a70eff14d76e)
 
 
@@ -53,7 +53,7 @@ I designed a screen featuring an input box for integer numbers of varying length
 
 Screenshots:
 
-![MicrosoftTeams-image (21) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/c1e72ac6-87c5-46df-ac0f-b33e9cc0fa55)
+![6](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ee4a3aef-d277-41bb-9b11-90676b243c9a)
 ![2](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/da534bd5-fea7-407a-898f-d331d1834430)
 
 
