@@ -15,6 +15,7 @@ This is the home scree of the app, you can click on indiviual buttons to see the
 
 Create a file upload feature in Flutter that accepts image or video files under 10 MB. Implement interactions like upload progress, file upload status, and a preview of the uploaded file. Ensure appropriate validations and error messages are displayed.
 After uploading a video or image, the file can be downloaded from Firebase storage, and videos can be played.
+
 Screenshots:
 
 ![MicrosoftTeams-image (17) (1) (1) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ecaedc41-e72b-40cf-a919-3c385e796ac6)
@@ -27,6 +28,7 @@ Screenshots:
 
 Write a simple application using a recursive function to find the Fibonacci value at a given position. Ensure the application is performant at scale to handle larger numbers without slowing down exponentially.
 For larger numbers, the factorial value will be too large, so an infinity sign is displayed.
+
 Screenshots:
 
 ![MicrosoftTeams-image (6)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/2780f902-04d5-4e06-bcbf-181b5e711ae8)
@@ -38,6 +40,7 @@ Screenshots:
 **Task 3: Balanced Substrings**
 
 Implement a function called getBalancedSubstrings(List<String> S) that returns an array of the longest balanced substrings of the input string S.
+
 Screenshots:
 
 ![MicrosoftTeams-image (2)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ab764693-2983-42f5-bb64-5a993542f915)
