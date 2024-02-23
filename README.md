@@ -4,7 +4,7 @@ About the Flutter Assignemnt Project:
 
 This is project repository including code files of all the given three tasks:
 
-This is the home scree of the app, you can click on indiviual buttons to see the task
+This is the home scree of the app, you can click on indiviual buttons to see the task 
 ![MicrosoftTeams-image (18) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/527f705e-222e-4407-90c9-cf8c035781b6)
 
 
