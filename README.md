@@ -5,7 +5,7 @@ About the Flutter Assignemnt Project:
 This is project repository including code files of all the given three tasks:
 
 This is the home scree of the app, you can click on indiviual buttons to see the task
-![MicrosoftTeams-image (18)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/e792d537-cbd1-421c-a348-3659f7a4e9ff)
+![MicrosoftTeams-image (18) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/527f705e-222e-4407-90c9-cf8c035781b6)
 
 
 Question 1: (compulsory)
@@ -16,7 +16,7 @@ Place appropriate validations and error messages wherever required.
 In this question, we have to upload a image or a video with a proper validation and UI interface inlcuding alert messages for large file size. After upload a videos/images, it is again downloading from the firebase storage and video can be play. 
 
 Attaching the screenshots
-![MicrosoftTeams-image (17) (1) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/7f667465-abf9-4061-95d7-23572decb92f)
+![MicrosoftTeams-image (17) (1) (1) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ecaedc41-e72b-40cf-a919-3c385e796ac6)
 ![MicrosoftTeams-image (8)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/cab38912-1c52-4672-b21d-3d6f8f493ecc)
 ![MicrosoftTeams-image (7)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/14a22c3c-a481-4ccb-b55a-88c1eae259fc)
 
