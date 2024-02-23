@@ -5,12 +5,14 @@
 This is project repository including code files of all the given three tasks:
 
 **Home Screen:**
+
 This is the home scree of the app, you can click on indiviual buttons to see the task 
 
 ![MicrosoftTeams-image (18) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/527f705e-222e-4407-90c9-cf8c035781b6)
 
 
 **Task 1: File Upload to Firebase Storage**
+
 Create a file upload feature in Flutter that accepts image or video files under 10 MB. Implement interactions like upload progress, file upload status, and a preview of the uploaded file. Ensure appropriate validations and error messages are displayed.
 After uploading a video or image, the file can be downloaded from Firebase storage, and videos can be played.
 Screenshots:
@@ -22,6 +24,7 @@ Screenshots:
 
 
 **Task 2: Fibonacci Series Application**
+
 Write a simple application using a recursive function to find the Fibonacci value at a given position. Ensure the application is performant at scale to handle larger numbers without slowing down exponentially.
 For larger numbers, the factorial value will be too large, so an infinity sign is displayed.
 Screenshots:
@@ -33,6 +36,7 @@ Screenshots:
 
 
 **Task 3: Balanced Substrings**
+
 Implement a function called getBalancedSubstrings(List<String> S) that returns an array of the longest balanced substrings of the input string S.
 Screenshots:
 
