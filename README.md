@@ -39,10 +39,8 @@ After a video or image is successfully uploaded, it is downloaded automatically 
 
 Screenshots:
 
-![9](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/4c4f8512-dc95-46d5-ac36-c7d36158f903)
-
-![MicrosoftTeams-image (7)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/14a22c3c-a481-4ccb-b55a-88c1eae259fc)
-
+![9 (2)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/efa0de28-cba8-43e9-8049-c8fdcc6f6c70)
+![MicrosoftTeams-image (20) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/df5e20fd-86b3-4ac0-977c-a70eff14d76e)
 
 
 **Task 2: Fibonacci Series Application**
@@ -55,7 +53,7 @@ I designed a screen featuring an input box for integer numbers of varying length
 
 Screenshots:
 
-![6](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/54e02e6f-5d5f-4495-98ff-823e1228c3e6)
+![MicrosoftTeams-image (21) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/c1e72ac6-87c5-46df-ac0f-b33e9cc0fa55)
 ![2](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/da534bd5-fea7-407a-898f-d331d1834430)
 
 
