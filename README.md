@@ -16,9 +16,9 @@ Place appropriate validations and error messages wherever required.
 In this question, we have to upload a image or a video with a proper validation and UI interface inlcuding alert messages for large file size. After upload a videos/images, it is again downloading from the firebase storage and video can be play. 
 
 Attaching the screenshots
+![MicrosoftTeams-image (17) (1) (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/7f667465-abf9-4061-95d7-23572decb92f)
 ![MicrosoftTeams-image (8)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/cab38912-1c52-4672-b21d-3d6f8f493ecc)
 ![MicrosoftTeams-image (7)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/14a22c3c-a481-4ccb-b55a-88c1eae259fc)
-![MicrosoftTeams-image (17)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/0a3b798a-7ce3-4ffe-90cc-c390d361656f)
 
 
 
@@ -26,9 +26,10 @@ Question 2:
 Write a simple application using a recursive function that accepts a value (integer) and returns the fibonacci value at that position in the series. The application should be performant at scale to handle larger numbers without slowing down exponentially.
 
 In this question, we have used recursive function to find factorial of the number. For larger number, facotrial value will be too large so we are showing infinity sign in that place.
-![MicrosoftTeams-image (10)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/f52657a9-7da6-4ea8-8be7-aa2a7276191d)
-![MicrosoftTeams-image (8)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/7b0432cf-b9ac-4e02-b376-f18f89aa0e47)
-![MicrosoftTeams-image (15)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/86be1b06-71d4-4bb2-86f9-4fa6e851d49a)
+
+![MicrosoftTeams-image (6)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/2780f902-04d5-4e06-bcbf-181b5e711ae8)
+![MicrosoftTeams-image (1)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/1755e694-92a8-406d-b9b6-3be8f42c8fb0)
+![MicrosoftTeams-image](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/0310d3c4-fa63-46e2-8f23-0c7b2a475ea5)
 
 
 
@@ -37,9 +38,7 @@ A string is balanced if it consists of exactly two different characters and both
 Examples: 1. Given S = "cabbacc", the function should return ["abba"] because it is the longest balanced substring.
 
 In this question, we are checking whether the input string is balanced or not. 
-![MicrosoftTeams-image (11)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/74909496-2ce3-458b-87d9-8a3fa7232569)
-![MicrosoftTeams-image (14)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/7e2cdccd-9e47-4d69-b385-8e4f55cc36ae)
-
-
+![MicrosoftTeams-image (2)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/ab764693-2983-42f5-bb64-5a993542f915)
+![MicrosoftTeams-image (4)](https://github.com/gaurav1246/Flutter-Assignment/assets/16500290/0d4d06b1-a74a-4453-9fd7-522d85598858)
 
 
